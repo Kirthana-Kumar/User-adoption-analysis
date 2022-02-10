@@ -36,7 +36,7 @@ that a user logged into the product.
 Defining an "adopted user" as a user who has logged into the product on three separate
 days in at least one sevenday period , identify which factors predict future user adoption .
 
-We suggest spending 12 hours on this, but you're welcome to spend more or less.
+We suggest spending 1-2 hours on this, but you're welcome to spend more or less.
 Please send us a brief writeup of your findings (the more concise, the better no
 morethan one page), along with any summary tables, graphs, code, or queries that can help
 us understand your approach. Please note any factors you considered or investigation
